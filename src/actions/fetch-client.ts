@@ -1,3 +1,5 @@
+/// <reference lib="esnext" />
+/// <reference types="@types/node" />
 
 import createClient from "openapi-fetch";
 import { fetch, Request } from 'undici'

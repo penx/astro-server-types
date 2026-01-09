@@ -1,3 +1,6 @@
+/// <reference lib="esnext" />
+/// <reference types="@types/node" />
+
 import { defineAction } from 'astro:actions';
 import { z } from 'astro/zod';
 
